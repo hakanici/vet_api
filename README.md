@@ -14,7 +14,7 @@ Java Maven, Spring Boot ve Postgresql Teknolojileri kullanılarak Veteriner Yön
 
 ##
                                          UML DIAGRAM
-![diagram](images/vet_diagram.png)
+![diagram](vet_diagram.png)
 
 ##
 
